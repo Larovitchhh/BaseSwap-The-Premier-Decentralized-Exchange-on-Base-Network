@@ -1,0 +1,8 @@
+BaseSwap operates on a straightforward yet powerful model, combining AMM mechanics with advanced liquidity management and user-friendly features. Here’s how it works:1. Token SwappingUsers can exchange cryptocurrencies through BaseSwap’s intuitive interface, which routes trades to access the deepest liquidity pools for the lowest fees. The platform supports a wide range of tokens, including WETH, USDC, BSWAP, and more, with trading pairs like WETH-USDC generating significant volume (e.g., $3.2M in a single day for a new pool).
+
+2. Liquidity PoolsBaseSwap allows users to provide liquidity to pools, earning fees and rewards in return. Liquidity providers receive BLP (BaseSwap Liquidity Provider) tokens as proof of their contribution. The platform supports both V2 and V3 pools, with V3 offering concentrated liquidity for higher efficiency. Users can choose manual or automated liquidity management, with partnerships like A51 Finance enabling custom range settings and automatic rebalancing to optimize returns.
+
+3. StakingBaseSwap offers lucrative single-asset staking for BSWAP token holders, allowing users to earn real-yield passive income. Staking rewards are complemented by yield boosters and lock APRs, with some pools offering APRs as high as 325% or more.
+
+4. Portfolio ManagementThe BaseSwap dashboard serves as an all-in-one hub for managing onchain portfolios. Users can view wallet balances, manage liquidity positions, claim fees and rewards, and track performance metrics like TVL ($2.93M) and 24-hour volume ($1.19M).
+
